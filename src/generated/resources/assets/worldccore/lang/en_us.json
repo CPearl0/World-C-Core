@@ -1,0 +1,21 @@
+{
+  "item.worldccore.circuit_board_gen_1": "Circuit Board Gen 1",
+  "item.worldccore.circuit_board_gen_2": "Circuit Board Gen 2",
+  "item.worldccore.circuit_board_gen_3": "Circuit Board Gen 3",
+  "item.worldccore.circuit_board_gen_4": "Circuit Board Gen 4",
+  "item.worldccore.compressed_iron_plate": "Compressed Iron Plate",
+  "item.worldccore.processing_unit_gen_1": "Processing Unit Gen 1",
+  "item.worldccore.processing_unit_gen_1_press": "Processing Unit Gen 1 Press",
+  "item.worldccore.processing_unit_gen_2": "Processing Unit Gen 2",
+  "item.worldccore.processing_unit_gen_2_press": "Processing Unit Gen 2 Press",
+  "item.worldccore.processing_unit_gen_3": "Processing Unit Gen 3",
+  "item.worldccore.processing_unit_gen_3_press": "Processing Unit Gen 3 Press",
+  "item.worldccore.processing_unit_gen_4": "Processing Unit Gen 4",
+  "item.worldccore.processing_unit_gen_4_press": "Processing Unit Gen 4 Press",
+  "item.worldccore.processor_gen_1": "RISC Processor Gen 1",
+  "item.worldccore.processor_gen_2": "RISC Processor Gen 2",
+  "item.worldccore.processor_gen_3": "RISC Processor Gen 3",
+  "item.worldccore.processor_gen_4": "RISC Processor Gen 4",
+  "item.worldccore.steel_plate": "Steel Plate",
+  "itemGroup.worldccore.main": "World C"
+}

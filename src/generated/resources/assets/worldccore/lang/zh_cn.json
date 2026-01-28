@@ -1,0 +1,21 @@
+{
+  "item.worldccore.circuit_board_gen_1": "第一代电路板",
+  "item.worldccore.circuit_board_gen_2": "第二代电路板",
+  "item.worldccore.circuit_board_gen_3": "第三代电路板",
+  "item.worldccore.circuit_board_gen_4": "第四代电路板",
+  "item.worldccore.compressed_iron_plate": "压缩铁板",
+  "item.worldccore.processing_unit_gen_1": "第一代处理单元",
+  "item.worldccore.processing_unit_gen_1_press": "第一代处理单元压印模板",
+  "item.worldccore.processing_unit_gen_2": "第二代处理单元",
+  "item.worldccore.processing_unit_gen_2_press": "第二代处理单元压印模板",
+  "item.worldccore.processing_unit_gen_3": "第三代处理单元",
+  "item.worldccore.processing_unit_gen_3_press": "第三代处理单元压印模板",
+  "item.worldccore.processing_unit_gen_4": "第四代处理单元",
+  "item.worldccore.processing_unit_gen_4_press": "第四代处理单元压印模板",
+  "item.worldccore.processor_gen_1": "第一代 RISC 处理器",
+  "item.worldccore.processor_gen_2": "第二代 RISC 处理器",
+  "item.worldccore.processor_gen_3": "第三代 RISC 处理器",
+  "item.worldccore.processor_gen_4": "第四代 RISC 处理器",
+  "item.worldccore.steel_plate": "钢板",
+  "itemGroup.worldccore.main": "C世界"
+}
