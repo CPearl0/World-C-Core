@@ -14,8 +14,11 @@ public class EnglishLanguageProvider extends LanguageProvider {
     protected void addTranslations() {
         add("itemGroup." + WorldCCore.MODID + ".main", "World C");
 
+        addItem(WCItems.SILICON_PLATE, "Silicon Plate");
         addItem(WCItems.COMPRESSED_IRON_PLATE, "Compressed Iron Plate");
         addItem(WCItems.STEEL_PLATE, "Steel Plate");
+        addItem(WCItems.BRONZE_PLATE, "Bronze Plate");
+        addItem(WCItems.OSMIUM_PLATE, "Osmium Plate");
 
         addItem(WCItems.PROCESSING_UNIT_GEN_1_PRESS, "Processing Unit Gen 1 Press");
         addItem(WCItems.PROCESSING_UNIT_GEN_2_PRESS, "Processing Unit Gen 2 Press");

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#c:plates/silicon",
+    "#c:plates/compressed_iron",
+    "#c:plates/steel",
+    "#c:plates/bronze",
+    "#c:plates/osmium"
+  ]
+}

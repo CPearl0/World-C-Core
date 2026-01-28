@@ -9,8 +9,11 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 public class WCItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(WorldCCore.MODID);
 
+    public static final DeferredItem<Item> SILICON_PLATE = ITEMS.registerSimpleItem("silicon_plate");
     public static final DeferredItem<Item> COMPRESSED_IRON_PLATE = ITEMS.registerSimpleItem("compressed_iron_plate");
     public static final DeferredItem<Item> STEEL_PLATE = ITEMS.registerSimpleItem("steel_plate");
+    public static final DeferredItem<Item> BRONZE_PLATE = ITEMS.registerSimpleItem("bronze_plate");
+    public static final DeferredItem<Item> OSMIUM_PLATE = ITEMS.registerSimpleItem("osmium_plate");
 
     public static final DeferredItem<Item> PROCESSING_UNIT_GEN_1_PRESS = ITEMS.registerSimpleItem("processing_unit_gen_1_press");
     public static final DeferredItem<Item> PROCESSING_UNIT_GEN_2_PRESS = ITEMS.registerSimpleItem("processing_unit_gen_2_press");
