@@ -15,6 +15,7 @@ public class ChineseLanguageProvider extends LanguageProvider {
         add("itemGroup." + WorldCCore.MODID + ".main", "C世界");
 
         addItem(WCItems.SILICON_PLATE, "硅板");
+        addItem(WCItems.PLASTIC_PLATE, "塑料板");
         addItem(WCItems.COMPRESSED_IRON_PLATE, "压缩铁板");
         addItem(WCItems.STEEL_PLATE, "钢板");
         addItem(WCItems.BRONZE_PLATE, "青铜板");

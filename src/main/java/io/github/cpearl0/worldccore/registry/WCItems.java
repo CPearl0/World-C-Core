@@ -10,6 +10,7 @@ public class WCItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(WorldCCore.MODID);
 
     public static final DeferredItem<Item> SILICON_PLATE = ITEMS.registerSimpleItem("silicon_plate");
+    public static final DeferredItem<Item> PLASTIC_PLATE = ITEMS.registerSimpleItem("plastic_plate");
     public static final DeferredItem<Item> COMPRESSED_IRON_PLATE = ITEMS.registerSimpleItem("compressed_iron_plate");
     public static final DeferredItem<Item> STEEL_PLATE = ITEMS.registerSimpleItem("steel_plate");
     public static final DeferredItem<Item> BRONZE_PLATE = ITEMS.registerSimpleItem("bronze_plate");

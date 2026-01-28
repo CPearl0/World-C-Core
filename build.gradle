@@ -154,9 +154,7 @@ dependencies {
     // Example project dependency using a sister or child project:
     // implementation project(":myproject")
 
-    // For more info:
-    // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
-    // http://www.gradle.org/docs/current/userguide/dependency_management.html
+    implementation "me.desht.pneumaticcraft:pneumaticcraft-repressurized:${pneumaticcraft_version}+mc${minecraft_version}"
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
@@ -173,6 +171,7 @@ tasks.withType(ProcessResources).configureEach {
             mod_name               : mod_name,
             mod_license            : mod_license,
             mod_version            : mod_version,
+            pneumaticcraft_version : pneumaticcraft_version,
     ]
     inputs.properties replaceProperties
 

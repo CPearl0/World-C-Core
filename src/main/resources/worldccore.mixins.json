@@ -2,7 +2,10 @@
   "required": true,
   "package": "io.github.cpearl0.worldccore.mixin",
   "compatibilityLevel": "JAVA_21",
-  "mixins": [],
+  "mixins": [
+    "pneumaticcraft.FluidPlasticMixin",
+    "pneumaticcraft.JEIPlasticSolidifyingCategoryMixin"
+  ],
   "injectors": {
     "defaultRequire": 1
   },
